@@ -18,6 +18,14 @@
 ```sh
 npm ci
 ```
+## Start on local server
+
+```sh
+npm build-css
+```
+```sh
+npm start
+```
 
 ## Author
 
