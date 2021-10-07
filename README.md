@@ -29,7 +29,7 @@ npm start
 
 ## Author
 
-👤 **Hazim **
+👤 * Hazim
 
 * Github: [@hazimhasnan](https://github.com/hazimhasnan)
 
